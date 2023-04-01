@@ -1,0 +1,61 @@
+.top_heading_div{
+  color: rgb(187, 255, 0);
+  text-align: center;
+  display: block;
+ 
+  font-size: 50px;
+  background-color: rgb(76, 73, 73);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading_2div{
+ 
+  display: block;
+  font-size: 40px;
+  text-align: center;
+  color: aqua;
+  background-color: rgb(124, 118, 118);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img1_div{
+  display: inline-block;
+ 
+  width: 320px;
+  height: 510px;
+  margin-top: 30px;
+  margin-left: 3px;
+  object-position: center;
+  border-radius: 20px;
+ 
+}
+.img1_div:hover{
+  background-color: rgb(243, 110, 9);
+  color: gold;
+}
+.img_1{
+  width: 320px;
+  height: 470px;
+  border-radius: 20px;
+}
+.img1_txt{
+  color: rgb(23, 23, 23);
+  font-size: 30px;
+  margin: 0%;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.img1_txt:hover{
+  color: rgb(240, 9, 9);
+}
+.main_div:active{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+.main_div:hover{
+  cursor: pointer;
+  background-color: greenyellow;
+
+}
+.body{
+  margin: 0px;
+}
